@@ -4,4 +4,4 @@ As an individual developer, my game will not ask for any user data, nor any kind
 
 The game is free to use as is, without any need to provide information.
 
-If you have any questions, please do contact me on: arth.wesley@gmail.com
+If you have any questions, feel free to contact me on: arth.wesley@gmail.com
